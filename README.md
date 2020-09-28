@@ -1,6 +1,7 @@
 <h1 align="center"> Conversor </h1>
 
-Conversor de moeda feito com React.
+
+ <h4 align="center"> <i>Conversor de moeda feito com React.</i> </h4>
 
 ## Instalar 
 
